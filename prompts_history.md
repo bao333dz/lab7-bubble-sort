@@ -35,3 +35,6 @@ Automatically captured prompt log. Entries are appended in chronological order (
 ### 23-03-2026 14:50
 - **Prompt**: i am interested in the in-place redraw option. help me implement this. create the stubs and todos in main.py
 
+### 23-03-2026 18:06
+- **Prompt**: can you help me a bit more in the draw_bar_chart function cause im kinda new to python im not familiar with the syntax
+
