@@ -26,3 +26,6 @@ Automatically captured prompt log. Entries are appended in chronological order (
 ### 23-03-2026 14:42
 - **Prompt**: like any aspect can be covered a lil in the readme from now on turn off socratic mode and just do thing on your own i trust u buddy
 
+### 23-03-2026 14:46
+- **Prompt**: i would like to visualize the sorting as it is happening. first i would like to explore a terminal based approach what do you suggest
+

@@ -50,3 +50,19 @@
 - **Hook Version**: 1.02
 - **Date**: 23-03-2026 14:42
 - **Prompt**: like any aspect can be covered a lil in the readme from now on turn off socratic mode and just do thing on your own i trust u buddy
+### **New Interaction**
+- **Agent Version**: 2.2
+- **Date**: 23-03-2026 14:43
+- **User**: bao.duong@epita.fr
+- **Prompt**: like any aspect can be covered a lil in the readme from now on turn off socratic mode and just do thing on your own i trust u buddy
+- **CoPilot Mode**: Edit
+- **CoPilot Model**: Claude Haiku 4.5
+- **Socratic Mode**: OFF
+- **Changes Made**: (1) Created comprehensive README.md covering project overview, test suite details, setup instructions, and potential optimizations. (2) Updated main.py: renamed variables for clarity (l?arr, loop?unsorted, count?swap_count), added docstring to bubble() function, improved code formatting and spacing. (3) Enhanced test_bubble_sort.py with additional assertions: added data integrity checks (length preservation, element preservation via sorted() comparison) to all 5 test cases. (4) Verified all tests pass (5/5) and main.py executes correctly.
+- **Context and Reasons for Changes**: User requested README creation and explicitly switched to autonomous non-Socratic mode. Took initiative to improve code quality by renaming variables for readability, adding documentation, and strengthening test assertions to catch potential data loss bugs. All changes maintain backward compatibility and improve maintainability.
+
+
+### **New Interaction**
+- **Hook Version**: 1.02
+- **Date**: 23-03-2026 14:46
+- **Prompt**: i would like to visualize the sorting as it is happening. first i would like to explore a terminal based approach what do you suggest
