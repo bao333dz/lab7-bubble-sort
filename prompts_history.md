@@ -23,3 +23,6 @@ Automatically captured prompt log. Entries are appended in chronological order (
 ### 23-03-2026 14:41
 - **Prompt**: Lets do some of this and some of that
 
+### 23-03-2026 14:42
+- **Prompt**: like any aspect can be covered a lil in the readme from now on turn off socratic mode and just do thing on your own i trust u buddy
+
