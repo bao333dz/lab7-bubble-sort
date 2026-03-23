@@ -17,3 +17,6 @@ Automatically captured prompt log. Entries are appended in chronological order (
 ### 23-03-2026 14:39
 - **Prompt**: can you do 5 cases cause they both sound necessary to me
 
+### 23-03-2026 14:40
+- **Prompt**: can you create a README.md for this project
+
