@@ -19,3 +19,8 @@
 - **Hook Version**: 1.02
 - **Date**: 23-03-2026 14:37
 - **Prompt**: can you set up testing for this app, using basic pytest features and create 5 tests
+
+### **New Interaction**
+- **Hook Version**: 1.02
+- **Date**: 23-03-2026 14:39
+- **Prompt**: can you do 5 cases cause they both sound necessary to me
