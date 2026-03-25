@@ -91,3 +91,19 @@
 - **Hook Version**: 1.02
 - **Date**: 25-03-2026 13:07
 - **Prompt**: check the os screen clear and time for me pls i dont understand how these work
+### **New Interaction**
+- **Agent Version**: 2.2
+- **Date**: 25-03-2026 13:08
+- **User**: bao.duong@epita.fr
+- **Prompt**: check the os screen clear and time for me pls i dont understand how these work
+- **CoPilot Mode**: Ask
+- **CoPilot Model**: GPT-5.3-Codex
+- **Socratic Mode**: OFF
+- **Changes Made**: No code changes. Explained how os.system('cls') and time.sleep() work in terminal animation and how call order affects visual output.
+- **Context and Reasons for Changes**: User asked for conceptual clarification of screen clearing and timing behavior in Python terminal visualization.
+
+
+### **New Interaction**
+- **Hook Version**: 1.02
+- **Date**: 25-03-2026 13:09
+- **Prompt**: then fix my code and explain to me
