@@ -169,3 +169,8 @@
 - **Hook Version**: 1.02
 - **Date**: 26-03-2026 13:17
 - **Prompt**: the image is not moving properly
+
+### **New Interaction**
+- **Hook Version**: 1.02
+- **Date**: 26-03-2026 13:21
+- **Prompt**: explain the screen.fill for me like what is 255 and why is my screen white

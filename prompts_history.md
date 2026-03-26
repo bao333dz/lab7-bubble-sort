@@ -71,3 +71,6 @@ Automatically captured prompt log. Entries are appended in chronological order (
 ### 26-03-2026 13:17
 - **Prompt**: the image is not moving properly
 
+### 26-03-2026 13:21
+- **Prompt**: explain the screen.fill for me like what is 255 and why is my screen white
+
