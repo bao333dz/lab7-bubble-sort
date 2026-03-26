@@ -68,3 +68,6 @@ Automatically captured prompt log. Entries are appended in chronological order (
 ### 26-03-2026 09:50
 - **Prompt**: i already pip install pygame then why is there an error
 
+### 26-03-2026 13:17
+- **Prompt**: the image is not moving properly
+

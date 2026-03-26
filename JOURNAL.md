@@ -153,3 +153,19 @@
 - **Hook Version**: 1.02
 - **Date**: 26-03-2026 09:50
 - **Prompt**: i already pip install pygame then why is there an error
+
+### **New Interaction**
+- **Agent Version**: 2.2
+- **Date**: 26-03-2026 09:40
+- **User**: bao.duong@epita.fr
+- **Prompt**: i already pip install pygame then why is there an error
+- **CoPilot Mode**: Ask
+- **CoPilot Model**: Claude Haiku 4.5
+- **Socratic Mode**: OFF
+- **Changes Made**: Installed pygame in project's virtual environment (.venv). Confirmed working with test run.
+- **Context and Reasons for Changes**: User had installed pygame globally but not in the project's venv. All Python packages must be installed in the venv for this project. Instructed user to always use the venv Python executable.
+
+### **New Interaction**
+- **Hook Version**: 1.02
+- **Date**: 26-03-2026 13:17
+- **Prompt**: the image is not moving properly
