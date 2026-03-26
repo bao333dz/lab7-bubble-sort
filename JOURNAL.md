@@ -174,3 +174,8 @@
 - **Hook Version**: 1.02
 - **Date**: 26-03-2026 13:21
 - **Prompt**: explain the screen.fill for me like what is 255 and why is my screen white
+
+### **New Interaction**
+- **Hook Version**: 1.02
+- **Date**: 26-03-2026 14:03
+- **Prompt**: how do i make the image fit the window size

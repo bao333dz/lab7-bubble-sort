@@ -74,3 +74,6 @@ Automatically captured prompt log. Entries are appended in chronological order (
 ### 26-03-2026 13:21
 - **Prompt**: explain the screen.fill for me like what is 255 and why is my screen white
 
+### 26-03-2026 14:03
+- **Prompt**: how do i make the image fit the window size
+
