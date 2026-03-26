@@ -53,3 +53,6 @@ Automatically captured prompt log. Entries are appended in chronological order (
 ### 26-03-2026 09:21
 - **Prompt**: my animation for bubble sort in the terminal in flickering i don't know what cause it, can you help me
 
+### 26-03-2026 09:37
+- **Prompt**: my visuralization in the terminal kind of flicker when the os cls command activated is there anyway to fix it
+

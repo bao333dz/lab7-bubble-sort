@@ -117,3 +117,19 @@
 - **Hook Version**: 1.02
 - **Date**: 26-03-2026 09:21
 - **Prompt**: my animation for bubble sort in the terminal in flickering i don't know what cause it, can you help me
+
+### **New Interaction**
+- **Agent Version**: 2.2
+- **Date**: 26-03-2026 09:35
+- **User**: bao.duong@epita.fr
+- **Prompt**: my animation for bubble sort in the terminal in flickering i don't know what cause it, can you help me
+- **CoPilot Mode**: Edit
+- **CoPilot Model**: GPT-5.3-Codex
+- **Socratic Mode**: OFF
+- **Changes Made**: Refactored terminal rendering to reduce flicker by replacing per-frame full screen clears with in-place ANSI cursor movement. Updated color() to render from the passed array, added terminal setup/restore helpers, and guarded script execution with __main__. bubble() now returns the sorted list instead of printing.
+- **Context and Reasons for Changes**: User reported terminal animation flickering. Frequent os.system('cls') calls were causing visible blinking and slower redraws. In-place redraw keeps animation smooth in compatible terminals and preserves fallback clear behavior when ANSI is unavailable.
+
+### **New Interaction**
+- **Hook Version**: 1.02
+- **Date**: 26-03-2026 09:37
+- **Prompt**: my visuralization in the terminal kind of flicker when the os cls command activated is there anyway to fix it
