@@ -50,3 +50,6 @@ Automatically captured prompt log. Entries are appended in chronological order (
 ### 25-03-2026 13:10
 - **Prompt**: woah chill just fix wwhat is in this file
 
+### 26-03-2026 09:21
+- **Prompt**: my animation for bubble sort in the terminal in flickering i don't know what cause it, can you help me
+
