@@ -138,3 +138,8 @@
 - **Hook Version**: 1.02
 - **Date**: 26-03-2026 09:46
 - **Prompt**: why there is this error when i run this file? Traceback (most recent call last):   File "d:\code\lab7-bubble-sort\pygame.py", line 1, in <module>     import pygame   File "d:\code\lab7-bubble-sort\pygame.py", line 3, in <module>     pygame.init() AttributeError: partially initialized module 'pygame' has no attribute 'init' (most likely due to a circular import) PS D:\code\lab7-bubble-sort> & d:\code\lab7-bubble-sort\.venv\Scripts\Activate.ps1 & : File D:\code\lab7-bubble-sort\.venv\Scripts\Activate.ps1 cannot be loaded because running scripts is disabled on this system. For more information, see about_Execution_Policies at https:/go.microsoft.com/fwlink/?LinkID=135170. At line:1 char:3 + & d:\code\lab7-bubble-sort\.venv\Scripts\Activate.ps1 +   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     + CategoryInfo          : SecurityError: (:) [], PSSecurityException     + FullyQualifiedErrorId : UnauthorizedAccess
+
+### **New Interaction**
+- **Hook Version**: 1.02
+- **Date**: 26-03-2026 09:49
+- **Prompt**: Import "pygame" could not be resolved
