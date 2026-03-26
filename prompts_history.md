@@ -80,3 +80,6 @@ Automatically captured prompt log. Entries are appended in chronological order (
 ### 26-03-2026 14:04
 - **Prompt**: no like the image is too big for this window or something like that, i want it to fit perfectly
 
+### 26-03-2026 14:17
+- **Prompt**: how do i delete background of png images
+
