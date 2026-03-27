@@ -199,3 +199,8 @@
 - **Hook Version**: 1.02
 - **Date**: 27-03-2026 19:39
 - **Prompt**: in this file, write me a stub function to display the bubble sort in main.py by pygame
+
+### **New Interaction**
+- **Hook Version**: 1.02
+- **Date**: 27-03-2026 19:41
+- **Prompt**: im new to pygame so please help me more, give me more suggestion
