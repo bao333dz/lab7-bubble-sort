@@ -194,3 +194,8 @@
 - **Hook Version**: 1.02
 - **Date**: 27-03-2026 19:00
 - **Prompt**: why does this always appear in the terminal after i run the code & : File D:\code\lab7-bubble-sort\.venv\Scripts\Activate.ps1 cannot be loaded because running  scripts is disabled on this system. For more information, see about_Execution_Policies at  https:/go.microsoft.com/fwlink/?LinkID=135170. At line:1 char:3 + & d:\code\lab7-bubble-sort\.venv\Scripts\Activate.ps1 +   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     + CategoryInfo          : SecurityError: (:) [], PSSecurityException     + FullyQualifiedErrorId : UnauthorizedAccess
+
+### **New Interaction**
+- **Hook Version**: 1.02
+- **Date**: 27-03-2026 19:39
+- **Prompt**: in this file, write me a stub function to display the bubble sort in main.py by pygame
